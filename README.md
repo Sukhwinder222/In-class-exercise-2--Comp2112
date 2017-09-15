@@ -74,11 +74,6 @@ undefined
 let el = document.querySelector('.item-purchase__container');
 undefined
 el.innerHTML = render(dietplain)
-"                                                                             
-     <h2>michel burger</h2>
-     <ul>220</ul>
-     <ul>spicy</ul>
-"
 ```
 ### Use a template literal within a template literal to create multiple ul-blocks
 ```js
